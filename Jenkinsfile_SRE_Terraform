@@ -1,4 +1,4 @@
-library('sre-jenkinsfile@sephone/localstack-terratest')
+library('sre-jenkinsfile@master')
 
 pipeline {
     agent {
